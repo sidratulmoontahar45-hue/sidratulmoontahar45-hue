@@ -15,7 +15,7 @@
 
 <!-- ================= TERMINAL ================= -->
 
-<h3> 🖥️ Terminal </h3>
+<h3>  Terminal </h3>
 
 ```bash
 ┌──(sidratul㉿github)-[~]
@@ -71,56 +71,6 @@ C C++ Java Python MySQL
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,c,cpp,java,python,mysql,git,github,vscode&theme=dark" />
 </p>
-
----
-
-<!-- ================= PROJECTS ================= -->
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌐 Portfolio Website
-
-My personal portfolio showcasing my skills, projects and development journey.
-
-**Tech:** React, JavaScript, Tailwind CSS
-
-</td>
-<td width="50%">
-
-### Exam Preparation App
-
-A web application designed to help students prepare for examinations.
-
-**Tech:** JavaScript, React
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🤖 AI-powered CRM App
-
-An AI-powered interview preparation assistant application.
-
-**Tech:** JavaScript
-
-</td>
-<td width="50%">
-
-### 🏦 ATM Bank Management System
-
-A Java-based banking management application.
-
-**Tech:** Java
-
-</td>
-</tr>
-</table>
 
 ---
 
