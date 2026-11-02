@@ -1,6 +1,6 @@
 
 <!-- ========================================= -->
-<!--          SIDRATUL - HACKER PROFILE        -->
+<!--          SIDRATUL - PROFILE README       -->
 <!-- ========================================= -->
 
 <!-- BINARY NAME ANIMATION -->
@@ -15,7 +15,7 @@
 <!-- MAIN TYPING ANIMATION -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=700&pause=300&color=00FF66&center=true&vCenter=true&width=1000&height=130&lines=Hi%2C+This+is+Sidratul.;Hi%2C+This+is+Sidratul..;Hi%2C+This+is+Sidratul...;A+passionate+Computer+Science+Student.;A+passionate+Computer+Science+Student..;A+passionate+Computer+Science+Student...;Backend+Developer.;Backend+Developer..;Backend+Developer...;Software+Engineer.;Software+Engineer..;Software+Engineer...;Scroll+down+to+explore+my+profile.;Scroll+down+to+explore+my+profile..;Scroll+down+to+explore+my+profile...;Thank+You.;Thank+You..;Thank+You..."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=60&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1000&height=130&delete=true&lines=Hi%2C+This+is+Sidratul...;A+passionate+Computer+Science+Student...;Backend+Developer...;Software+Engineer...;Scroll+down+to+explore+my+profile...;Thank+You!"
     width="100%"
     alt="Typing animation"
   />
@@ -88,7 +88,7 @@ Sidratul Moontahar
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=sidratulmoontahar45-hue&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=050807&title_color=00FF66&icon_color=00FF66&text_color=C8FACC"
+    src="https://github-readme-stats.vercel.app/api?username=sidratulmoontahar45-hue&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=808080&icon_color=808080&text_color=808080"
     width="100%"
     alt="GitHub statistics"
   />
@@ -96,7 +96,7 @@ Sidratul Moontahar
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidratulmoontahar45-hue&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=050807&title_color=00FF66&text_color=C8FACC"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidratulmoontahar45-hue&layout=compact&theme=default&hide_border=true&bg_color=00000000&title_color=808080&text_color=808080"
     width="100%"
     alt="Most used programming languages"
   />
@@ -120,10 +120,10 @@ Sidratul Moontahar
 
 <p align="center">
   <a href="https://github.com/sidratulmoontahar45-hue">
-    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FF66"/>
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
   </a>
   <a href="https://www.linkedin.com/in/sidratul-islam/">
-    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF66"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
   </a>
 </p>
 
@@ -131,9 +131,9 @@ Sidratul Moontahar
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF66,50:003B18,100:000000&height=120&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:808080,50:404040,100:000000&height=120&section=footer"
     width="100%"
-    alt="Green hacker style footer"
+    alt="Footer"
   />
 </p>
 
