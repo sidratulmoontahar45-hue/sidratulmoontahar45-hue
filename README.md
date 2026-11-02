@@ -15,7 +15,7 @@
 <!-- TYPING ANIMATION -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1800&pause=1500&color=FFFFFF&center=true&vCenter=true&width=1000&height=80&delete=true&repeat=true&lines=Backend+Developer;App+Developer;Software+Developer"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1800&pause=1500&deleteSpeed=100&color=FFFFFF&center=true&vCenter=true&width=1000&height=80&delete=true&repeat=true&lines=Backend+Developer;App+Developer;Software+Developer"
     width="100%"
     alt="Backend Developer, App Developer, Software Developer"
   />
