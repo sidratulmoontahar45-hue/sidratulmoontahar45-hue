@@ -73,43 +73,6 @@ C C++ Java Python MySQL
 </p>
 
 ---
-
-<!-- ================= PROJECTS ================= -->
-
-## 🚀 Featured Projects
-
-### 🌐 Portfolio Website
-
-My personal portfolio showcasing my skills, projects and development journey.
-
-**Technologies:** React, JavaScript, Tailwind CSS
-
----
-
-### 📚 Exam Preparation App
-
-A web application designed to help students prepare for examinations.
-
-**Technologies:** React, JavaScript
-
----
-
-### 🤖 AI-powered CRM App
-
-An AI-powered interview preparation assistant application.
-
-**Technologies:** JavaScript
-
----
-
-### 🏦 ATM Bank Management System
-
-A Java-based banking management application.
-
-**Technologies:** Java
-
----
-
 <!-- ================= GITHUB STATS ================= -->
 
 ## 📊 GitHub Statistics
