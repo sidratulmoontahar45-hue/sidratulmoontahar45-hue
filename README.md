@@ -12,12 +12,12 @@
   />
 </p>
 
-<!-- MAIN TYPING ANIMATION -->
+<!-- TYPING ANIMATION -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=50&pause=1600&color=FFFFFF&center=true&vCenter=true&width=1000&height=100&delete=true&lines=Hi%2C+This+is+Sidratul;A+passionate+Computer+Science+Student;Backend+Developer;App+Developer;Software+Developer;Thank+You"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=900&pause=1500&color=FFFFFF&center=true&vCenter=true&width=1000&height=80&delete=true&repeat=true&lines=Backend+Developer;App+Developer;Software+Developer"
     width="100%"
-    alt="Typing animation"
+    alt="Backend Developer, App Developer, Software Developer"
   />
 </p>
 
@@ -69,7 +69,6 @@ Sidratul Moontahar
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express&theme=dark"
-    width="100%"
     alt="Frontend and backend technologies"
   />
 </p>
@@ -77,7 +76,6 @@ Sidratul Moontahar
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=c,cpp,java,python,mysql,git,github,vscode&theme=dark"
-    width="100%"
     alt="Programming languages and developer tools"
   />
 </p>
@@ -88,7 +86,7 @@ Sidratul Moontahar
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=sidratulmoontahar45-hue&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=808080&icon_color=808080&text_color=808080"
+    src="https://github-readme-stats.vercel.app/api?username=sidratulmoontahar45-hue&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=808080&icon_color=808080&text_color=808080"
     width="100%"
     alt="GitHub statistics"
   />
@@ -96,7 +94,7 @@ Sidratul Moontahar
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidratulmoontahar45-hue&layout=compact&theme=default&hide_border=true&bg_color=00000000&title_color=808080&text_color=808080"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidratulmoontahar45-hue&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=808080&text_color=808080"
     width="100%"
     alt="Most used programming languages"
   />
@@ -120,13 +118,15 @@ Sidratul Moontahar
 
 <p align="center">
   <a href="https://github.com/sidratulmoontahar45-hue">
-    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" />
   </a>
+
   <a href="https://www.linkedin.com/in/mohammad-sidratul-moontahar-177679299/">
-    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
   </a>
+
   <a href="https://www.instagram.com/sidratul.islam/">
-    <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=FFFFFF" />
   </a>
 </p>
 
