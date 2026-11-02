@@ -15,7 +15,7 @@
 <!-- MAIN TYPING ANIMATION -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=60&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1000&height=130&delete=true&lines=Hi%2C+This+is+Sidratul...;A+passionate+Computer+Science+Student...;Backend+Developer...;Software+Engineer...;Scroll+down+to+explore+my+profile...;Thank+You!"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=50&pause=1600&color=FFFFFF&center=true&vCenter=true&width=1000&height=100&delete=true&lines=Hi%2C+This+is+Sidratul;A+passionate+Computer+Science+Student;Backend+Developer;App+Developer;Software+Developer;Thank+You"
     width="100%"
     alt="Typing animation"
   />
@@ -122,8 +122,11 @@ Sidratul Moontahar
   <a href="https://github.com/sidratulmoontahar45-hue">
     <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
   </a>
-  <a href="https://www.linkedin.com/in/sidratul-islam/">
+  <a href="https://www.linkedin.com/in/mohammad-sidratul-moontahar-177679299/">
     <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
+  </a>
+  <a href="https://www.instagram.com/sidratul.islam/">
+    <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/>
   </a>
 </p>
 
