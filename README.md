@@ -14,11 +14,7 @@
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1200&color=00FF66&center=true&vCenter=true&width=1000&height=150&multiline=true&repeat=true&lines=Hi%2C+This+is+Sidratul...;A+passionate+Computer+Science+Student...;Backend+Developer...;Software+Engineer...;Scroll+down+to+explore+my+profile...;Thank+You!"
-    width="100%"
-    alt="Typing animation"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=500&pause=200&color=00FF66&center=true&vCenter=true&width=200&height=50&lines=.;..;..." />
 </p>
 
 
