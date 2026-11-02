@@ -12,11 +12,22 @@
   />
 </p>
 
-<!-- TYPING ANIMATION -->
+<!-- MAIN TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=500&pause=200&color=00FF66&center=true&vCenter=true&width=200&height=50&lines=.;..;..." />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1200&color=00FF66&center=true&vCenter=true&width=850&height=130&lines=Hi%2C+This+is+Sidratul...;A+passionate+Computer+Science+Student...;Backend+Developer...;Software+Engineer...;Scroll+down+to+explore+my+profile...;Thank+You!"
+    width="100%"
+    alt="Typing animation"
+  />
 </p>
 
+<!-- REPEATING DOT ANIMATION -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=500&pause=200&color=00FF66&center=true&vCenter=true&width=200&height=55&lines=.;..;..."
+    alt="Loading dots animation"
+  />
+</p>
 
 ---
 
