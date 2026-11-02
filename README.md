@@ -1,125 +1,157 @@
 
-<!-- ================= HEADER ================= -->
+<!-- ======================================= -->
+<!--         SIDRATUL - HACKER PROFILE       -->
+<!-- ======================================= -->
 
+<!-- HEADER -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:003B35,100:00E5A0&height=200&section=header&text=SIDRATUL&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:003B18,100:00FF66&height=220&section=header&text=SIDRATUL&fontSize=65&fontColor=00FF66&animation=fadeIn&fontAlignY=45&stroke=00FF66&strokeWidth=1"/>
 </p>
 
-<!-- ================= TYPING ANIMATION ================= -->
-
+<!-- TYPING ANIMATION -->
 <p align="center">
-  <img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1800&color=00E5A0&center=true&vCenter=true&width=700&height=130&lines=Hi%2C+This+is+Sidratul...;A+passionate+Computer+Science+Student...;Backend+Developer...;Software+Engineer...;Scroll+down+to+check+out+my+projects...;Thank+You!" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=1200&color=00FF66&center=true&vCenter=true&width=850&height=100&lines=Hi%2C+This+is+Sidratul...;A+passionate+Computer+Science+Student...;Backend+Developer...;Software+Engineer...;Scroll+down+to+check+out+my+projects...;Thank+You!"
+    width="100%"
+    alt="Typing animation"
+  />
 </p>
 
----
-
-<!-- ================= TERMINAL ================= -->
-
-<h2> 🖥️ Terminal </h2>
+<!-- TERMINAL INTRODUCTION -->
+<h2>💻 SYSTEM TERMINAL</h2>
 
 ```bash
-┌──(sidratul㉿github)-[~]
+┌──(root㉿sidratul)-[~]
 └─$ whoami
 
 Sidratul Moontahar
 
-┌──(sidratul㉿github)-[~]
+┌──(root㉿sidratul)-[~]
 └─$ cat about.txt
 
-> Computer Science Student
+> Computer Science & Engineering Student
 > Backend Developer
 > Software Engineer
-> Tech Enthusiast
+> Technology Enthusiast
 > Location: Bangladesh
 
-┌──(sidratul㉿github)-[~]
-└─$ ls technologies/
+┌──(root㉿sidratul)-[~]
+└─$ ./initialize.sh
 
-HTML CSS JavaScript React
-C C++ Java Python MySQL
+[✓] Identity verified
+[✓] Development environment loaded
+[✓] Technologies detected
+[✓] Projects initialized
+[✓] System ready...
 
-┌──(sidratul㉿github)-[~]
-└─$ ./start_development.sh
-
-[✓] Developer profile initialized
-[✓] Technologies loaded
-[✓] Projects loaded
-[✓] Ready to build something awesome!
-
-┌──(sidratul㉿github)-[~]
+┌──(root㉿sidratul)-[~]
 └─$ _
 ```
 
 ---
 
-<!-- ================= ABOUT ME ================= -->
+<!-- ABOUT ME -->
+## 👨‍💻 ABOUT ME
 
-## 👨‍💻 About Me
+```bash
+$ cat profile.txt
+```
 
-- 🎓 Currently pursuing BSc in Computer Science & Engineering.
-- 💻 Interested in Software Development and Backend Engineering.
-- 🌱 Continuously learning and exploring new technologies.
-- 🚀 Building projects and improving my development skills.
-- 📍 Bangladesh.
-
----
-
-<!-- ================= TECH STACK ================= -->
-
-## ⚡ Technologies & Tools
-
-<p align="center">
-  <img width="100%" src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,c,cpp,java,python,mysql,git,github,vscode&theme=dark" />
-</p>
+- 🎓 Pursuing BSc in Computer Science & Engineering.
+- 💻 Interested in Backend Development and Software Engineering.
+- ⚡ Enjoy building practical applications and solving problems.
+- 🌱 Always learning and exploring new technologies.
+- 🌍 Based in Bangladesh.
 
 ---
-<!-- ================= GITHUB STATS ================= -->
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=sidratulmoontahar45-hue&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050B10&title_color=00E5A0&icon_color=00E5A0&text_color=FFFFFF" />
-</p>
+<!-- TECH STACK -->
+## ⚡ TECHNOLOGIES DETECTED
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidratulmoontahar45-hue&layout=compact&theme=tokyonight&hide_border=true&bg_color=050B10&title_color=00E5A0&text_color=FFFFFF" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,c,cpp,java,python,mysql,git,github,vscode&theme=dark" width="100%" />
 </p>
 
 ---
 
-<!-- ================= CONTRIBUTION SNAKE ================= -->
+<!-- PROJECTS -->
+## 🚀 PROJECT DIRECTORY
 
-## 🐍 Contribution Activity
+```bash
+┌──(root㉿sidratul)-[~/projects]
+└─$ ls -la
+
+drwxr-xr-x  portfolio/
+drwxr-xr-x  exam-preparation-app/
+drwxr-xr-x  atm-management-system/
+drwxr-xr-x  smart-irrigation-system/
+```
+
+### 🌐 Portfolio Website
+Personal portfolio showcasing my skills, projects and development journey.
+
+`React` `JavaScript` `Tailwind CSS`
+
+### 📚 Exam Preparation App
+A web application designed to help students prepare for examinations.
+
+`React` `JavaScript` `Node.js` `Express`
+
+### 🏦 ATM Bank Management System
+A Java-based banking management application.
+
+`Java`
+
+### 🌱 Smart Plant Monitoring & Watering System
+An IoT-based project that monitors soil moisture and automates plant watering.
+
+`ESP8266` `C++` `DHT11` `LCD`
+
+---
+
+<!-- GITHUB STATS -->
+## 📊 SYSTEM ACTIVITY
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/sidratulmoontahar45-hue/sidratulmoontahar45-hue/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=sidratulmoontahar45-hue&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=050807&title_color=00FF66&icon_color=00FF66&text_color=C8FACC" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidratulmoontahar45-hue&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=050807&title_color=00FF66&text_color=C8FACC" />
 </p>
 
 ---
 
-<!-- ================= CONNECT ================= -->
+<!-- CONTRIBUTION SNAKE -->
+## 🐍 CONTRIBUTION TRACKER
 
-## 🌐 Connect With Me
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/sidratulmoontahar45-hue/sidratulmoontahar45-hue/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
+</p>
+
+---
+
+<!-- CONNECT -->
+## 🌐 ESTABLISH CONNECTION
 
 <p align="center">
   <a href="https://github.com/sidratulmoontahar45-hue">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00E5A0"/>
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FF66"/>
   </a>
   <a href="https://www.linkedin.com/in/sidratul-islam/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00E5A0"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF66"/>
   </a>
 </p>
 
 ---
 
-<!-- ================= FOOTER ================= -->
-
+<!-- FOOTER -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5A0,50:003B35,100:050505&height=120&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF66,50:003B18,100:000000&height=130&section=footer"/>
 </p>
 
 <p align="center">
-  <b>BUILDING. LEARNING. IMPROVING.</b>
+  <b>ACCESS GRANTED ✓</b>
   <br/>
-  <code>while(alive) { keep_building(); }</code>
+  <code>root@sidratul:~$ keep_building --forever</code>
 </p>
