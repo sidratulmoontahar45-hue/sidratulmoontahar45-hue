@@ -1,12 +1,12 @@
 
 <!-- ========================================= -->
-<!--       SIDRATUL - HACKER PROFILE           -->
+<!--          SIDRATUL - HACKER PROFILE        -->
 <!-- ========================================= -->
 
-<!-- BINARY NAME INTRO -->
+<!-- BINARY NAME ANIMATION -->
 <p align="center">
   <img
-    src="./sidratul_binary_header.gif"
+    src="./sidratul_binary_header_once.gif"
     width="100%"
     alt="Binary digits forming SIDRATUL"
   />
@@ -15,16 +15,15 @@
 <!-- TYPING ANIMATION -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=1200&color=00FF66&center=true&vCenter=true&width=850&height=100&lines=Hi%2C+This+is+Sidratul...;A+passionate+Computer+Science+Student...;Backend+Developer...;Software+Engineer...;Scroll+down+to+check+out+my+projects...;Thank+You!"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=1200&color=00FF66&center=true&vCenter=true&width=850&height=100&lines=Hi%2C+This+is+Sidratul...;A+passionate+Computer+Science+Student...;Backend+Developer...;Software+Engineer...;Scroll+down+to+explore+my+profile...;Thank+You!"
     width="100%"
     alt="Typing animation"
   />
 </p>
 
-<!-- TERMINAL -->
 ---
 
-## 💻 SYSTEM TERMINAL
+## SYSTEM TERMINAL
 
 ```bash
 ┌──(root㉿sidratul)-[~]
@@ -47,7 +46,6 @@ Sidratul Moontahar
 [✓] Identity verified
 [✓] Development environment loaded
 [✓] Technologies detected
-[✓] Projects initialized
 [✓] System ready...
 
 ┌──(root㉿sidratul)-[~]
@@ -56,19 +54,17 @@ Sidratul Moontahar
 
 ---
 
-<!-- ABOUT -->
-##  ABOUT ME
+## ABOUT ME
 
--  Pursuing BSc in Computer Science & Engineering.
--  Interested in Backend Development and Software Engineering.
--  Enjoy building practical applications and solving problems.
--  Continuously learning and exploring new technologies.
--  Bangladesh.
+- Currently pursuing BSc in Computer Science & Engineering.
+- Interested in Backend Development and Software Engineering.
+- Enjoy building practical applications and solving problems.
+- Continuously learning and exploring new technologies.
+- Based in Bangladesh.
 
 ---
 
-<!-- TECH STACK -->
-##  TECHNOLOGIES DETECTED
+## TECHNOLOGIES DETECTED
 
 <p align="center">
   <img
@@ -88,21 +84,6 @@ Sidratul Moontahar
 
 ---
 
-<!-- PROJECTS -->
-##  PROJECT DIRECTORY
-
-```bash
-┌──(root㉿sidratul)-[~/projects]
-└─$ ls -la
-
-drwxr-xr-x  portfolio/
-drwxr-xr-x  interview-preparation-app/
-drwxr-xr-x  atm-management-system/
-drwxr-xr-x  smart-irrigation-system/
-```
-
-
-<!-- GITHUB STATS -->
 ## SYSTEM ACTIVITY
 
 <p align="center">
@@ -123,8 +104,7 @@ drwxr-xr-x  smart-irrigation-system/
 
 ---
 
-<!-- CONTRIBUTION SNAKE -->
-##  CONTRIBUTION TRACKER
+## CONTRIBUTION TRACKER
 
 <p align="center">
   <img
@@ -136,8 +116,7 @@ drwxr-xr-x  smart-irrigation-system/
 
 ---
 
-<!-- CONNECT -->
-##  ESTABLISH CONNECTION
+## ESTABLISH CONNECTION
 
 <p align="center">
   <a href="https://github.com/sidratulmoontahar45-hue">
@@ -150,7 +129,6 @@ drwxr-xr-x  smart-irrigation-system/
 
 ---
 
-<!-- FOOTER -->
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF66,50:003B18,100:000000&height=120&section=footer"
@@ -160,7 +138,7 @@ drwxr-xr-x  smart-irrigation-system/
 </p>
 
 <p align="center">
-  <b>ACCESS GRANTED ✓</b>
+  <b>ACCESS GRANTED</b>
   <br/>
   <code>root@sidratul:~$ keep_building --forever</code>
 </p>
