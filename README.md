@@ -15,9 +15,9 @@
 <!-- TYPING ANIMATION -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1800&pause=1500&color=FFFFFF&center=true&vCenter=true&width=1000&height=100&delete=true&repeat=true&lines=Hi%2C+I%27m+Sidratul;A+Computer+Science+Student;Backend+Developer;App+Developer;Software+Developer"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1800&pause=1500&color=FFFFFF&center=true&vCenter=true&width=1000&height=100&delete=true&repeat=true&lines=Hi%2C+I%27m+Sidratul...;Welcome+to+my+GitHub...;A+Passionate+Computer+Science+Student;Backend+Developer;App+Developer;Software+Developer;Scroll+down+to+check+out+my+projects...;Thank+You!"
     width="100%"
-    alt="Hi, I'm Sidratul - Computer Science Student - Backend Developer - App Developer - Software Developer"
+    alt="Sidratul GitHub profile typing animation"
   />
 </p>
 
